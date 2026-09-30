@@ -25,7 +25,7 @@ farm watch, coordinating work, or getting everyone together for a braai after wo
   &nbsp;
   <img src="images/m1-in-hand.jpg" alt="A ThinkNode M1 showing WhatsApp replies relayed over the mesh" height="260">
   &nbsp;
-  <img src="images/bridge-reply.png" alt="Replying to WhatsApp from the Meshtastic app" height="260">
+  <img src="images/wa-sos-alert.png" alt="The SOS alert arriving in a family WhatsApp chat" height="260">
 </p>
 
 ```
