@@ -20,6 +20,14 @@ WhatsApps from a pocket radio in the field**, and have **SOS alerts land in the 
 and groups you choose**, with a map link and location updates. It's handy every day too:
 farm watch, coordinating work, or getting everyone together for a braai after work.
 
+<p>
+  <img src="images/sos-press.gif" alt="Holding the SOS button on a ThinkNode M3" height="260">
+  &nbsp;
+  <img src="images/m1-in-hand.jpg" alt="A ThinkNode M1 showing WhatsApp replies relayed over the mesh" height="260">
+  &nbsp;
+  <img src="images/bridge-reply.png" alt="Replying to WhatsApp from the Meshtastic app" height="260">
+</p>
+
 ```
 hold 3 s ─► SOS radio ~~LoRa mesh~~ gateway at the house ─► veld-bridge ─► WhatsApp 📱
 ```
